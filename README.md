@@ -1,7 +1,7 @@
-# Projeto_Disney
+# Projeto_Disney 🏰
 
 ## Nome do Projeto
-App: Disney
+App: Disneyland
 
 ---
 
@@ -12,7 +12,7 @@ App: Disney
 ---
 
 ## Descrição do Projeto
-O **Disney** é um aplicativo Android que consome uma API pública da Disney, exibindo informações sobre personagens, filmes e séries.  
+O **Disneyland** é um aplicativo Android que consome uma API pública da Disney, exibindo informações sobre personagens, filmes e séries.  
 O usuário pode **pesquisar personagens**, **filtrar resultados** e **visualizar detalhes** de cada item, com base nos dados retornados pela API.
 
 ---
