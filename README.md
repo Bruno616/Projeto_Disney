@@ -6,7 +6,7 @@ App: Disneyland
 ---
 
 ## Integrantes
-- Bruno Queiroz Palma 
+- Bruno Queiroz Plata 
 - Matheus Henrique Galindo Campos
 
 ---
