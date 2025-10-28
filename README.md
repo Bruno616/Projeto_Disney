@@ -17,6 +17,13 @@ O **Disneyland** é um aplicativo mobile desenvolvido em **Flutter (Dart)** para
 Ele consome uma **API pública da Disney**, exibindo informações sobre personagens, filmes e séries.  
 O usuário pode navegar entre os conteúdos, visualizar detalhes, favoritar itens e explorar filmes por gênero, tudo através de uma interface simples e intuitiva.
 
+### Link Protótipo Figma:
+
+
+### Mapa de Navegação:
+
+
+
 ---
 
 ## Funcionalidades Principais
@@ -31,17 +38,15 @@ O usuário pode navegar entre os conteúdos, visualizar detalhes, favoritar iten
 
 ## API Utilizada
 
-O aplicativo consome dados da **Disney API**, uma API pública que fornece informações sobre personagens, filmes e séries do universo Disney.
+O aplicativo consome dados da **Disney API**, uma API pública que fornece informações sobre personagens do universo Disney.
 
-### 🌐 URL Base da API
+URL Base da API
 
 https://api.disneyapi.dev/
 
----
-
 ## Documentação Oficial
 
-📘 [https://disneyapi.dev/docs/](https://disneyapi.dev/docs/)
+[https://disneyapi.dev/docs/](https://disneyapi.dev/docs/)
 
 ---
 
@@ -109,6 +114,9 @@ API pública disponibilizada por Disney API.
 ---
 
 ## Tópicos da Wiki
-- [Análise da API]()
-- [Protótipo e Navegação]()
-- [Descrição Detalhada da Aplicação]()
+- [Home](https://github.com/Bruno616/Projeto_Disney/wiki)
+- [1. Análise API da Disney](https://github.com/Bruno616/Projeto_Disney/wiki/1.-Analise-API-da-Disney)
+- [2. Descrição do Aplicativo](https://github.com/Bruno616/Projeto_Disney/wiki/2.-Descrição-do-Aplicativo)
+- [3. Protótipo e Navegação](https://github.com/Bruno616/Projeto_Disney/wiki/3.-Protótipo-e-Navegação)
+- [4. Créditos e Referências](https://github.com/Bruno616/Projeto_Disney/wiki/4.-Créditos-e-Referências)
+
