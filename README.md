@@ -27,11 +27,11 @@ https://www.figma.com/design/YoEX8cHAQDiw9txxh1T6T6/Untitled?node-id=0-1&t=aVYY3
 
 ## Funcionalidades Principais
 
-- **Tela Inicial (Home):** Mostra os principais filmes e séries disponíveis na API.  
-- **Favoritos:** Permite favoritar personagens ou filmes e visualizá-los depois em uma aba dedicada.  
-- **Exploração por Gênero:** Exibe listas de filmes separados por gêneros, como ação, terror, fantasia, etc.  
-- **Detalhes:** Mostra informações completas de um item selecionado (nome, imagem, descrição e outras aparições).  
-- **Créditos da API:** Seção que informa sobre a API utilizada e a origem dos dados.
+1. **Home:** Exibe os personagens em destaque (“Personagens top”).  
+2. **Gêneros:** Mostra produções separadas por categorias (Infantil, Aventura, Musical, etc.).  
+3. **Detalhes:** Mostra imagem, filmes/Series que participou e nome original.  
+4. **Créditos:** Exibe as informações da API e do grupo.
+5. **Configurações:** Exibe opcões para configuração e contato para suporte.
 
 ---
 
