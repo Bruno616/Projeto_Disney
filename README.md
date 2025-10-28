@@ -21,8 +21,7 @@ O usuário pode navegar entre os conteúdos, visualizar detalhes, favoritar iten
 https://www.figma.com/design/YoEX8cHAQDiw9txxh1T6T6/Untitled?node-id=0-1&t=aVYY321taYI8Ff0k-1
 
 ### Mapa de Navegação:
-
-
+<img width="973" height="602" alt="{33D55A79-88B2-4651-80EB-DB72A1CB4ECC}" src="https://github.com/user-attachments/assets/0aae77c9-fe4d-48b2-96a3-117e0dd2c99e" />
 
 ---
 
@@ -74,20 +73,6 @@ Parâmetros:
 
 
 Retorno: Retorna dados detalhados do personagem, incluindo filmes, séries e jogos.
-
-
-3. /films
-
-Função: Lista filmes disponíveis na API.
-
-Parâmetros:
-
-page → número da página.
-
-
-Retorno: Lista de filmes com nome, imagem e ano de lançamento.
-
-
 
 ---
 
