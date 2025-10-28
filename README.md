@@ -37,11 +37,11 @@ https://www.figma.com/design/YoEX8cHAQDiw9txxh1T6T6/Untitled?node-id=0-1&t=aVYY3
 
 ## API Utilizada
 
-O aplicativo consome dados da **Disney API**, uma API pública que fornece informações sobre personagens do universo Disney.
+O aplicativo consome dados da **Disney API**, uma API pública que fornece informações sobre personagens do universo Disney. A app não tem necessidade de autenticação
 
 URL Base da API
 
-https://api.disneyapi.dev/
+https://api.disneyapi.dev/character
 
 Documentação Oficial
 
