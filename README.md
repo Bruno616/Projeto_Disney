@@ -18,7 +18,7 @@ Ele consome uma **API pública da Disney**, exibindo informações sobre persona
 O usuário pode navegar entre os conteúdos, visualizar detalhes, favoritar itens e explorar filmes por gênero, tudo através de uma interface simples e intuitiva.
 
 ### Link Protótipo Figma:
-
+https://www.figma.com/design/YoEX8cHAQDiw9txxh1T6T6/Untitled?node-id=0-1&t=aVYY321taYI8Ff0k-1
 
 ### Mapa de Navegação:
 
