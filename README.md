@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# disney_bruno
-
-A new Flutter project.
-=======
 # Projeto_Disney 🏰
 
 ## Nome do Projeto
