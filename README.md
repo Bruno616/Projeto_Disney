@@ -104,5 +104,4 @@ API pública disponibilizada por Disney API.
 - [2. Descrição do Aplicativo](https://github.com/Bruno616/Projeto_Disney/wiki/2.-Descrição-do-Aplicativo)
 - [3. Protótipo e Navegação](https://github.com/Bruno616/Projeto_Disney/wiki/3.-Protótipo-e-Navegação)
 - [4. Créditos e Referências](https://github.com/Bruno616/Projeto_Disney/wiki/4.-Créditos-e-Referências)
-
->>>>>>> e1b9b1da21128d23bb917394621d3c7bbd83497a
+- [5. Vídeo do App](https://github.com/Bruno616/Projeto_Disney/wiki/5%E2%80%90video)
